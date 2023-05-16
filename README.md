@@ -24,9 +24,9 @@ Rescale the data as that the training is made easy
 Create the model for the program , in this experiment we create two networks , one for encoding and one for decoding
 
 ## PROGRAM
-Program developed by : Shrruthilaya G
+Program developed by : Gunaseelan G
 
-Register number : 212221230097
+Register number : 212221230031
 
 ```
 from tensorflow import keras
@@ -115,10 +115,11 @@ plt.show()
 ## OUTPUT
 
 ### Data summary 
-![](summary.PNG)
+![out1](https://github.com/Guru-Guna/convolutional-denoising-autoencoder/assets/93427255/6cb62d0f-6071-4b8c-841b-9e93a0eb02a4)
+
 
 ### Original vs Noisy Vs Reconstructed Image
+![out2](https://github.com/Guru-Guna/convolutional-denoising-autoencoder/assets/93427255/76a7a222-a21d-4a02-b0ac-e2319f52909f)
 
-![](output.PNG)
 ## RESULT
 Thus, we have successfully developed a convolutional autoencoder for image denoising application.
